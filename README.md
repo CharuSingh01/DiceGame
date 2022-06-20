@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to my first JavaScript project!
 
-You can use the [editor on GitHub](https://github.com/CharuSingh01/DiceGame/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About JavaScript:
 
-### Markdown
+JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# About DOM
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+The Document Object Model is a cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document.
 
-**Bold** and _Italic_ and `Code` text
+# Working of this game
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+When we refresh the page using the "Click me" button, a random number is generated between 1 to 6 for each dice. The respective number shows the image of respective dice. The result is calculated based on the value of dice. The dice having greater number will be declared as the winner. If the value is same on both dice, it will be a draw.
 
-### Jekyll Themes
+I hope you have fun playing this game!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CharuSingh01/DiceGame/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
